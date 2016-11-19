@@ -1,0 +1,6 @@
+c:\users\piotrek\documents\visual studio 2013\Projects\Wyklad5\Wyklad5\bin\Debug\Wyklad5.exe.config
+c:\users\piotrek\documents\visual studio 2013\Projects\Wyklad5\Wyklad5\bin\Debug\Wyklad5.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\Wyklad5\Wyklad5\bin\Debug\Wyklad5.pdb
+c:\users\piotrek\documents\visual studio 2013\Projects\Wyklad5\Wyklad5\obj\Debug\Wyklad5.csprojResolveAssemblyReference.cache
+c:\users\piotrek\documents\visual studio 2013\Projects\Wyklad5\Wyklad5\obj\Debug\Wyklad5.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\Wyklad5\Wyklad5\obj\Debug\Wyklad5.pdb
